@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Softawre Engineer (DEGREE)
 - 💞️ I’m looking to collaborate on ...
 - 📫 You Can Reach Me Instagram@itsmallikabdullahnasir
-- Twitter@Abdullah_n5
+- Twitter@Abdullah_Nasir5
 
 <!---
 itsmalikabdullahnasir/itsmalikabdullahnasir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
