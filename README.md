@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @itsmalikabdullahnasir<br>👀 I’m interested in Coding<br>🌱 I’m currently learning Softawre Engineer (DEGREE)<br>💞️ I’m looking to collaborate on ...<br>📫 You Can Reach Me Instagram@itsmallikabdullahnasir<br>       Twitter@Abdullah_Nasir5
+👋 Hi, I’m @itsmalikabdullahnasir<br>👀 Interested in Coding<br>🌱 I’m currently learning Softawre Engineer<br>💞️ I’m looking to collaborate on Projects<br>📫 You Can Reach Me Instagram@itsmallikabdullahnasir<br>       Twitter@Abdullah_Nasir5
 
 
 ## 🌐 Socials:
