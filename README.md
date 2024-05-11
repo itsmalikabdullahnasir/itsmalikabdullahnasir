@@ -19,7 +19,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=itsmalikabdullahnasir&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=itsmallikabdullahnasir&label=%F0%9F%91%80%20Glimpses&color=12&icon=2&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=itsmalikabdullahnasir&icon=2&color=12)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/itsmalikabdullahnasir) 
