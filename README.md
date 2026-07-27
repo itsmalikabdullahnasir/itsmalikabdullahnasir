@@ -7,10 +7,9 @@
 ██╔══██║██╔══██╗██║  ██║██║   ██║██║     ██║     ██╔══██║██╔══██║
 ██║  ██║██████╔╝██████╔╝╚██████╔╝███████╗███████╗██║  ██║██║  ██║
 ╚═╝  ╚═╝╚═════╝ ╚═════╝  ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
-      Penetration Tester · Security Engineer · Full-Stack Dev
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&color=00FF41&center=true&vCenter=true&width=800&lines=%E2%94%8C%E2%94%80%E2%94%80(abdullah%E3%89%BFkali)-%5B~%5D;%E2%94%94%E2%94%80%24+sudo+./exploit.sh+--target+the_unknown;%5B%2B%5D+shell+acquired.+welcome+to+my+profile." alt="kali prompt" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=800&color=00FF41&center=true&vCenter=true&width=820&lines=%5B*%5D+intrusion+detected+...;%5B*%5D+decrypting+identity+...+01000001;%5B%2B%5D+ACCESS+GRANTED+%E2%80%94+welcome%2C+intruder.;%3E+Penetration+Tester+%2F%2F+Security+Engineer+%2F%2F+Dev" alt="breach sequence" />
 
 </div>
 
@@ -24,23 +23,32 @@
   role      : Penetration Tester · Security Engineer
   groups    : offsec, red-team, full-stack, erp-next
   education : BS Software Engineering @ Bahria University
-  shell     : /bin/zsh   host: kali · ubuntu · windows
-  uid=1337(abdullah)  ➜  hunting vulns & shipping fixes
+  uid=1337(abdullah)  ➜  I break systems so attackers can't.
 ──────────────────────────────────────────────────────────────
 ```
 
 <br/>
 
-```c
-┌──(abdullah㉿kali)-[~]
-└─$ cat about.txt
+## ⚑ &nbsp; `CAPTURE_THE_FLAG.chal`
+
+```diff
+- [!] You breached the perimeter. But can you read what's inside?
++ [*] Decode the payload below. Two layers guard the flag.
 ```
 
-> **Penetration tester and security engineer** who hunts exploitable flaws —
-> **broken auth, IDOR, injection** — across web apps and network infrastructure,
-> then turns them into **client-ready, prioritised reports** under responsible
-> disclosure. I also ship **MERN** and **ERPNext** systems, so I secure code the
-> way an attacker tests it: **from both sides of the exploit.**
+```bash
+┌──(intruder㉿abdullah)-[/root/.secret]
+└─$ cat flag.enc
+
+  NjY2YzYxNjc3Yjc5MzA3NTVmNjI3MjMzMzQ2MzY4MzM2NDVmNzQ2ODMz
+  NWY3MDMzNzIzMTZkMzM3NDMzNzI1ZjZjMzM3NDczNWY2MzMwNmU2ZTMz
+  NjM3NDdk
+
+  [?] layer 1 » the classic way to move bytes as safe text  (____64)
+  [?] layer 2 » speaks only in pairs of 0-9 and a-f         (h_x)
+  [$] reward  » DM me the plaintext on LinkedIn or X.
+                first 3 to crack it get a shoutout. 🏴
+```
 
 <br/>
 
@@ -73,7 +81,6 @@ Service detection: 7/7 ports open — 0 filtered. Scan complete.
 ```
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
 <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
 <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logoColor=white" />
@@ -83,7 +90,6 @@ Service detection: 7/7 ports open — 0 filtered. Scan complete.
 <img src="https://skillicons.dev/icons?i=kali,linux,bash,react,nextjs,ts,nodejs,express,mongodb,git,github,postman&theme=dark" />
 <br/>
 <img src="https://img.shields.io/badge/ERPNext-0089FF?style=for-the-badge&logo=frappe&logoColor=white" />
-
 </p>
 
 <br/>
@@ -153,7 +159,7 @@ Service detection: 7/7 ports open — 0 filtered. Scan complete.
 
 ```c
 ┌──(abdullah㉿kali)-[~]
-└─$ nc -lvnp 1337   # catch my reverse shell
+└─$ nc -lvnp 1337   # listening for your connection...
 ```
 
 <p align="center">
