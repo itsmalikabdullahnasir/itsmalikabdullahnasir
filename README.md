@@ -1,27 +1,27 @@
 <!-- ════════════════════════════════════════════════════════════════
                            ABDULLAH NASIR
-   Full Stack Engineer · ERPNext Developer · Cybersecurity & Pentesting
+   Penetration Tester · Security Engineer · Full-Stack Developer
 ═════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=760&lines=%24+whoami;%3E+Full+Stack+Engineer+%C3%97+Penetration+Tester;%3E+I+build+it%2C+then+I+break+it%2C+then+I+secure+it;%3E+MERN+%C2%B7+ERPNext+%C2%B7+Offensive+Security" alt="terminal typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=780&lines=%24+sudo+whoami;%3E+Penetration+Tester+%26+Security+Engineer;%3E+I+break+systems+so+attackers+can't;%3E+Burp+%C2%B7+Nmap+%C2%B7+Metasploit+%C2%B7+OWASP+%C2%B7+Kali;%3E+Full-Stack+dev+who+codes+secure+by+default" alt="terminal typing" />
 
 </div>
 
 <br/>
 
 ```ruby
-abdullah@dev ~ ❯ whoami
+root@abdullah:~# whoami
 ──────────────────────────────────────────────────────────────
-   user       ➜  Abdullah Nasir
-   role       ➜  Full Stack Engineer · Pentester · ERPNext Dev
-   education  ➜  BS Software Engineering @ Bahria University
-   focus      ➜  MERN · ERPNext · Offensive Security (OWASP)
-   stack      ➜  React · Next.js · Node · Express · MongoDB
-   security   ➜  Burp Suite · Nmap · Metasploit · OWASP ZAP · Kali
-   os         ➜  Kali · Ubuntu · Windows
-   status     ➜  🟢 shipping production systems before graduating
+   user        ➜  Abdullah Nasir
+   role        ➜  Penetration Tester · Security Engineer
+   education   ➜  BS Software Engineering @ Bahria University
+   specialty   ➜  Web & Network Pentesting · API Security · OWASP
+   arsenal     ➜  Burp Suite · Nmap · Metasploit · Wireshark · ZAP
+   also_builds ➜  MERN apps · ERPNext (secure by design)
+   os          ➜  Kali · Ubuntu · Windows
+   status      ➜  🟢 hunting vulns & shipping fixes
 ──────────────────────────────────────────────────────────────
 ```
 
@@ -29,21 +29,61 @@ abdullah@dev ~ ❯ whoami
 
 ### `~/about`
 
-> Software Engineer holding **three concurrent professional roles** while finishing my
-> BS in Software Engineering. I've shipped a production **ERPNext** system on live
-> construction infrastructure, built and hardened **MERN** applications, and run
-> **penetration testing** engagements that turn into client-ready reports — all before
-> graduating. I build systems that are **scalable and secure by design.**
+> **Penetration tester and security engineer** focused on offensive security and secure
+> development. I hunt exploitable flaws — **broken auth, IDOR, injection** — across web
+> apps and network infrastructure, then turn them into **client-ready, prioritised
+> reports** under responsible disclosure. I also build **MERN** and **ERPNext** systems,
+> which means I secure code the way an attacker would test it: **from both sides.**
 
 <br/>
 
-### `~/experience`
+### `~/offensive-security`
 
-| Role | Company | When |
-| :--- | :--- | :--- |
-| **Full Stack Engineer** `ERPNext` | Al Awan Construction | Oct 2024 – Present |
-| **Full Stack Developer** `MERN` | BG SIFT | Jul 2025 – Sep 2025 |
-| **Penetration Tester** `OffSec` | DATAFLOW | Feb 2025 – Present |
+```yaml
+recon_and_exploitation:
+  - Web Application Penetration Testing
+  - Network Infrastructure Assessment
+  - Broken Authentication · IDOR · Injection Flaws
+  - Proof-of-Concept Development
+
+reporting:
+  - Client-Ready Vulnerability Reports
+  - Prioritised, Actionable Fix Lists
+  - Responsible Disclosure
+
+secure_development:
+  - Secure Application Development (OWASP)
+  - API & Authentication Security
+  - Network Security & Infrastructure Hardening
+  - Role-Based Access Control (RBAC)
+```
+
+<br/>
+
+### `~/arsenal`
+
+**Security & Offensive Tooling**
+
+<p>
+<img src="https://skillicons.dev/icons?i=kali,linux,bash&theme=dark" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+</p>
+
+**Development**
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" />
+<img src="https://img.shields.io/badge/ERPNext-0089FF?style=flat-square&logo=frappe&logoColor=white" />
+</p>
 
 <br/>
 
@@ -54,28 +94,7 @@ abdullah@dev ~ ❯ whoami
 | 🍽️ **Dastarkhan AI** | React · Node · MongoDB · AI | End-to-end AI-powered food delivery platform with recommendations & vendor dashboards |
 | 📚 **LMS Tracker** | React · Chrome Extension · Node | Auto-syncs Bahria University LMS assignments so students never miss a deadline |
 | 🎫 **EVENZA** | MERN · MVC + Repository | Multi-role event management platform with payment tracking |
-| 🎓 **FYP Management System** | MERN · RBAC | 4-role final-year-project lifecycle platform with rubric scoring & audit trail |
-
-<br/>
-
-### `~/stack`
-
-**Development**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind&theme=dark" />
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,github,postman,vscode&theme=dark" />
-
-**Security & Ops**
-
-<img src="https://skillicons.dev/icons?i=kali,linux,bash&theme=dark" />
-&nbsp;
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=gnu&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
-![ERPNext](https://img.shields.io/badge/ERPNext-0089FF?style=flat-square&logo=frappe&logoColor=white)
+| 🎓 **FYP Management System** | MERN · RBAC | 4-role project lifecycle platform with secure workflow & audit trail |
 
 <br/>
 
@@ -97,12 +116,12 @@ abdullah@dev ~ ❯ whoami
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=itsmalikabdullahnasir&theme=dark&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&title_color=00E5FF&icon_color=00E5FF&text_color=c9d1d9&bg_color=0d1117" />
-<img height="160" src="https://nirzak-streak-stats.vercel.app/?user=itsmalikabdullahnasir&theme=dark&hide_border=true&background=0d1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=itsmalikabdullahnasir&theme=dark&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&bg_color=0d1117" />
+<img height="160" src="https://streak-stats.demolab.com/?user=itsmalikabdullahnasir&theme=dark&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
 
 <br/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmalikabdullahnasir&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact&title_color=00E5FF&text_color=c9d1d9&bg_color=0d1117" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmalikabdullahnasir&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact&title_color=00FF41&text_color=c9d1d9&bg_color=0d1117" />
 
 </div>
 
@@ -126,7 +145,7 @@ $ ping abdullah --socials
 
 <p align="left">
 <a href="https://linkedin.com/in/itsmalikabdullahnasir"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://g.dev/itsmalikabdullahnasir"><img src="https://img.shields.io/badge/Portfolio-00E5FF?style=flat-square&logo=googlechrome&logoColor=black" /></a>
+<a href="https://g.dev/itsmalikabdullahnasir"><img src="https://img.shields.io/badge/Portfolio-00FF41?style=flat-square&logo=googlechrome&logoColor=black" /></a>
 <a href="https://x.com/Abdullah_Nasir5"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
 <a href="https://stackoverflow.com/users/23621453"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white" /></a>
 <a href="https://instagram.com/itsmalikabdullahnasir"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
@@ -137,8 +156,8 @@ $ ping abdullah --socials
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=itsmalikabdullahnasir&label=visitors&color=00E5FF&style=flat-square" alt="visitors" />
+<img src="https://komarev.com/ghpvc/?username=itsmalikabdullahnasir&label=visitors&color=00FF41&style=flat-square" alt="visitors" />
 
-<sub><code>// build it. break it. secure it. ship it. 🚀</code></sub>
+<sub><code>// find the flaw. prove the impact. report it. patch it. 🛡️</code></sub>
 
 </div>
