@@ -1,93 +1,97 @@
-<!-- ════════════════════════════════════════════════════════════════
-                           ABDULLAH NASIR
-   Penetration Tester · Security Engineer · Full-Stack Developer
-═════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=780&lines=%24+sudo+whoami;%3E+Penetration+Tester+%26+Security+Engineer;%3E+I+break+systems+so+attackers+can't;%3E+Burp+%C2%B7+Nmap+%C2%B7+Metasploit+%C2%B7+OWASP+%C2%B7+Kali;%3E+Full-Stack+dev+who+codes+secure+by+default" alt="terminal typing" />
+```
+ █████╗ ██████╗ ██████╗ ██╗   ██╗██╗     ██╗      █████╗ ██╗  ██╗
+██╔══██╗██╔══██╗██╔══██╗██║   ██║██║     ██║     ██╔══██╗██║  ██║
+███████║██████╔╝██║  ██║██║   ██║██║     ██║     ███████║███████║
+██╔══██║██╔══██╗██║  ██║██║   ██║██║     ██║     ██╔══██║██╔══██║
+██║  ██║██████╔╝██████╔╝╚██████╔╝███████╗███████╗██║  ██║██║  ██║
+╚═╝  ╚═╝╚═════╝ ╚═════╝  ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
+      Penetration Tester · Security Engineer · Full-Stack Dev
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&color=00FF41&center=true&vCenter=true&width=800&lines=%E2%94%8C%E2%94%80%E2%94%80(abdullah%E3%89%BFkali)-%5B~%5D;%E2%94%94%E2%94%80%24+sudo+./exploit.sh+--target+the_unknown;%5B%2B%5D+shell+acquired.+welcome+to+my+profile." alt="kali prompt" />
 
 </div>
 
 <br/>
 
-```ruby
-root@abdullah:~# whoami
+```c
+┌──(abdullah㉿kali)-[~]
+└─$ whoami && id
 ──────────────────────────────────────────────────────────────
-   user        ➜  Abdullah Nasir
-   role        ➜  Penetration Tester · Security Engineer
-   education   ➜  BS Software Engineering @ Bahria University
-   specialty   ➜  Web & Network Pentesting · API Security · OWASP
-   arsenal     ➜  Burp Suite · Nmap · Metasploit · Wireshark · ZAP
-   also_builds ➜  MERN apps · ERPNext (secure by design)
-   os          ➜  Kali · Ubuntu · Windows
-   status      ➜  🟢 hunting vulns & shipping fixes
+  user      : Abdullah Nasir
+  role      : Penetration Tester · Security Engineer
+  groups    : offsec, red-team, full-stack, erp-next
+  education : BS Software Engineering @ Bahria University
+  shell     : /bin/zsh   host: kali · ubuntu · windows
+  uid=1337(abdullah)  ➜  hunting vulns & shipping fixes
 ──────────────────────────────────────────────────────────────
 ```
 
 <br/>
 
-### `~/about`
+```c
+┌──(abdullah㉿kali)-[~]
+└─$ cat about.txt
+```
 
-> **Penetration tester and security engineer** focused on offensive security and secure
-> development. I hunt exploitable flaws — **broken auth, IDOR, injection** — across web
-> apps and network infrastructure, then turn them into **client-ready, prioritised
-> reports** under responsible disclosure. I also build **MERN** and **ERPNext** systems,
-> which means I secure code the way an attacker would test it: **from both sides.**
+> **Penetration tester and security engineer** who hunts exploitable flaws —
+> **broken auth, IDOR, injection** — across web apps and network infrastructure,
+> then turns them into **client-ready, prioritised reports** under responsible
+> disclosure. I also ship **MERN** and **ERPNext** systems, so I secure code the
+> way an attacker tests it: **from both sides of the exploit.**
 
 <br/>
 
-### `~/offensive-security`
+```c
+┌──(abdullah㉿kali)-[~]
+└─$ nmap -sV -A -p- abdullah.local
+```
 
 ```yaml
-recon_and_exploitation:
-  - Web Application Penetration Testing
-  - Network Infrastructure Assessment
-  - Broken Authentication · IDOR · Injection Flaws
-  - Proof-of-Concept Development
+Starting Nmap — Service & Skill Detection ...
 
-reporting:
-  - Client-Ready Vulnerability Reports
-  - Prioritised, Actionable Fix Lists
-  - Responsible Disclosure
+PORT       STATE   SERVICE           VERSION
+──────────────────────────────────────────────────────────────
+443/tcp    open    web-pentesting    Web App Assessment · OWASP Top 10
+80/tcp     open    api-security      Broken Auth · IDOR · Injection
+8080/tcp   open    exploitation      PoC Dev · Responsible Disclosure
+53/tcp     open    network-sec       Infra Hardening · Recon · Scanning
+22/tcp     open    secure-dev        RBAC · Auth Flows · Secure Coding
+3000/tcp   open    full-stack        React · Next.js · Node · MongoDB
+9000/tcp   open    erp-systems       ERPNext · Deployment · Migration
 
-secure_development:
-  - Secure Application Development (OWASP)
-  - API & Authentication Security
-  - Network Security & Infrastructure Hardening
-  - Role-Based Access Control (RBAC)
+Service detection: 7/7 ports open — 0 filtered. Scan complete.
 ```
 
 <br/>
 
-### `~/arsenal`
+```c
+┌──(abdullah㉿kali)-[~]
+└─$ ls -la /opt/arsenal
+```
 
-**Security & Offensive Tooling**
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=kali,linux,bash&theme=dark" />
-</p>
-
-<p>
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
 <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
 <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
-</p>
-
-**Development**
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb&theme=dark" />
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" />
-<img src="https://img.shields.io/badge/ERPNext-0089FF?style=flat-square&logo=frappe&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=kali,linux,bash,react,nextjs,ts,nodejs,express,mongodb,git,github,postman&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/ERPNext-0089FF?style=for-the-badge&logo=frappe&logoColor=white" />
+
 </p>
 
 <br/>
 
-### `~/projects`
+```c
+┌──(abdullah㉿kali)-[~]
+└─$ git log --oneline ~/projects
+```
 
 | Project | Stack | What it does |
 | :--- | :--- | :--- |
@@ -98,7 +102,10 @@ secure_development:
 
 <br/>
 
-### `~/contributions --animate`
+```c
+┌──(abdullah㉿kali)-[~]
+└─$ ./snake --eat ~/.contributions
+```
 
 <div align="center">
 
@@ -112,22 +119,29 @@ secure_development:
 
 <br/>
 
-### `~/metrics`
+```c
+┌──(abdullah㉿kali)-[~]
+└─$ ps aux | grep github
+```
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=itsmalikabdullahnasir&theme=dark&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&bg_color=0d1117" />
-<img height="160" src="https://streak-stats.demolab.com/?user=itsmalikabdullahnasir&theme=dark&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
+<img src="https://img.shields.io/github/followers/itsmalikabdullahnasir?style=for-the-badge&logo=github&color=00FF41&labelColor=0d1117&logoColor=00FF41" />
+<img src="https://komarev.com/ghpvc/?username=itsmalikabdullahnasir&label=PROFILE+VIEWS&color=00FF41&style=for-the-badge" />
 
-<br/>
+<br/><br/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmalikabdullahnasir&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact&title_color=00FF41&text_color=c9d1d9&bg_color=0d1117" />
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=itsmalikabdullahnasir&theme=dark&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&bg_color=0d1117" />
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmalikabdullahnasir&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact&title_color=00FF41&text_color=c9d1d9&bg_color=0d1117" />
 
 </div>
 
 <br/>
 
-### `~/certifications`
+```c
+┌──(abdullah㉿kali)-[~]
+└─$ cat ~/.certs | sort -r
+```
 
 - 🎯 **Foundations of Cybersecurity** — Google / Coursera · `95%`
 - 🛠️ **Technical Support Fundamentals** — Google / Coursera · `99.2%`
@@ -137,27 +151,23 @@ secure_development:
 
 <br/>
 
-### `~/connect`
-
-```bash
-$ ping abdullah --socials
+```c
+┌──(abdullah㉿kali)-[~]
+└─$ nc -lvnp 1337   # catch my reverse shell
 ```
 
-<p align="left">
-<a href="https://linkedin.com/in/itsmalikabdullahnasir"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://g.dev/itsmalikabdullahnasir"><img src="https://img.shields.io/badge/Portfolio-00FF41?style=flat-square&logo=googlechrome&logoColor=black" /></a>
-<a href="https://x.com/Abdullah_Nasir5"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
-<a href="https://stackoverflow.com/users/23621453"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white" /></a>
-<a href="https://instagram.com/itsmalikabdullahnasir"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-<a href="mailto:malikabdullahnasir5@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+<p align="center">
+<a href="https://linkedin.com/in/itsmalikabdullahnasir"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://g.dev/itsmalikabdullahnasir"><img src="https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
+<a href="https://x.com/Abdullah_Nasir5"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://stackoverflow.com/users/23621453"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
+<a href="mailto:malikabdullahnasir5@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <br/>
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=itsmalikabdullahnasir&label=visitors&color=00FF41&style=flat-square" alt="visitors" />
-
-<sub><code>// find the flaw. prove the impact. report it. patch it. 🛡️</code></sub>
+<sub><code>root@abdullah:~# echo "find the flaw · prove the impact · report it · patch it" 🛡️</code></sub>
 
 </div>
